@@ -1,0 +1,11 @@
+journal
+
+--
+
+## 13-08-25
+Slow day, but solid library study with Manas; met Abhiram after many days.  
+Taking GATE prep more seriously (friends’ momentum helps).  
+Spent time with mom; cooked dinner for me and dad.  
+Built a small email spam classifier in Python.  
+Step by step—treating daily tasks with discipline and devotion.  
+Ended the day with a peaceful walk.
